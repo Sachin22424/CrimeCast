@@ -11,14 +11,6 @@ The rise in urban crime necessitates smarter tools for prediction and prevention
 
 The project uses historical crime records with details like location, time, victim characteristics, and weapons involved to predict crime categories and uncover spatial-temporal patterns.
 
-## 👥 Team Members
-
-| Name           | Roll No. | Contribution |
-|----------------|----------|--------------|
-| Sachin Maurya  | 2022424  | Data collection, preprocessing, documentation, web development |
-| Niteen Kumar   | 2022336  | Exploratory Data Analysis (EDA), feature engineering, optimization |
-| Pratham Mittal | 2022373  | Model selection, training, and evaluation |
-| Satyam         | 2022462  | Model optimization and final evaluation |
 
 ## 📂 Dataset
 
@@ -78,9 +70,6 @@ The dataset includes crime reports with the following key features:
 4. Martinez et al. (2022) – *ML Models for Crime Categorization*
 5. McGlohon et al. (2018) – *Crime and Punishment: Urban Crime Prediction*
 
-## 🔗 GitHub Repository
-
-🔗 [CrimeCast GitHub Repo](https://github.com/Sachin22424/CrimeCast)
 
 ---
 
